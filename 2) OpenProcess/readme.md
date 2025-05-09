@@ -55,5 +55,5 @@ CloseHandle(hProcess);
 ```
 ***ALWAYS CLOSE HANDLE AFTER YOU'RE DONE FFS!***
 
-## Why the fuck do I need to know this?
+## Why do I need to know this?
 This is an essential function to learn, because you'll to obtain a HANDLE to a process which is utilised by many functions to interact with a process (e.g. `ReadProcessMemory`, `WriteProcessMemory`, `VirtualAllocEx`, `TerminateProcess`, etc.)
