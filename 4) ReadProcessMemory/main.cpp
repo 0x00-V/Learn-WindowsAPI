@@ -29,7 +29,7 @@ void ListModules(HANDLE hProcess)
         {
             if(GetModuleBaseNameW(hProcess, hModules[i], module_name, MAX_PATH))
             {
-                std::wcout << L"[+] Module:" << module_name << L" | Base Address: 0x" << std::hex << (uintptr_t)hModules[i] << std::dec << '\n'; 
+                std::wcout << L"[+] Module: " << module_name << L" | Base Address: 0x" << std::hex << (uintptr_t)hModules[i] << std::dec << '\n'; 
             }
         }
     } else 

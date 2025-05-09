@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) OpenProcess/readme.md",
+                "file": "1) CreateToolhelp32Snapshot/readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,17 +170,24 @@
   },
   "active": "fb671e4c43f21aa9",
   "lastOpenFiles": [
-    "3) Memory Management/2) ReadProcessMemory/readme.md",
-    "3) Memory Management/1) EnumProcessModules/readme.md",
-    "3) Memory Management/1) EnumProcessModules/main.exe",
-    "3) Memory Management/1) EnumProcessModules/main.cpp",
-    "1) OpenProcess/readme.md",
-    "3) Memory Management/1) EnumProcessModules",
-    "2) Close Handle/readme.md",
-    "2) Close Handle",
-    "3) Memory Management/2) ReadProcessMemory/main.exe",
-    "3) Memory Management/2) ReadProcessMemory/main.cpp",
-    "3) Memory Management/2) ReadProcessMemory",
-    "3) Memory Management"
+    "7) CreateRemoteThread/readme.md",
+    "7) CreateRemoteThread.md",
+    "7) CreateRemoteThread",
+    "6) VirtualProtect & VirtualProtectEx/readme.md",
+    "5) WriteProcessMemory/readme.md",
+    "6) VirtualProtect & VirtualProtectEx",
+    "4) ReadProcessMemory/readme.md",
+    "2) OpenProcess/readme.md",
+    "1) CreateToolhelp32Snapshot/readme.md",
+    "1) CreateToolhelp32Snapshot/main.exe",
+    "1) CreateToolhelp32Snapshot/main.cpp",
+    "1) CreateToolhelp32Snapshot",
+    "5) WriteProcessMemory/MemoryWriteExample.exe",
+    "5) WriteProcessMemory/main.cpp",
+    "5) WriteProcessMemory",
+    "3) Memory Management/New folder",
+    "x) Projects/1) MemoryPeek/main.exe",
+    "3) EnumProcessModules/readme.md",
+    "2) Close Handle/readme.md"
   ]
 }
